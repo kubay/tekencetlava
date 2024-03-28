@@ -267,3 +267,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x66c17a07c"}
 {"jsonrpc":"2.0","id":1,"result":"0x6a97fc0dc"}
 {"jsonrpc":"2.0","id":1,"result":"0x623977522"}
+{"error":"{\"Error_GUID\":\"11029828019893026597\",\"Error\":\"Failed all retries {GUID:11029828019893026597,error:rpc error: code = DeadlineExceeded desc = context deadline exceeded,chain_id:ETH1}\"}"}
